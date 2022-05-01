@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<FORM>
+    <student>
+        <firstname>Daniel</firstname>
+        <lastname>Brown</lastname>
+    
+        <ADDRESS>
+            <street></street>
+            <parish></parish>
+        </ADDRESS>
+    
+        <dob></dob>
+    </student>
+</FORM>
